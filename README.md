@@ -1,4 +1,4 @@
-# SOCS-Binus
+# SOCS Binus Repository
 This repository aims to summarize various assignment related to C language which have been worked on during SOCS
 
 ## Licensed
